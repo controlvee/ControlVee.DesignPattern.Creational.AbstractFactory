@@ -3,7 +3,7 @@
 namespace ControlVee.DesignPattern.Creational.AbstractFactory
 {
     /// <summary>
-    /// https://springframework.guru/gang-of-four-design-patterns/abstract-factory-design-pattern/
+    /// https://www.dofactory.com/net/abstract-factory-design-pattern
     /// </summary>
     class Program
     {
