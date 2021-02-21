@@ -2,6 +2,9 @@
 
 namespace ControlVee.DesignPattern.Creational.AbstractFactory
 {
+    /// <summary>
+    /// https://springframework.guru/gang-of-four-design-patterns/abstract-factory-design-pattern/
+    /// </summary>
     class Program
     {
         static void Main(string[] args)
