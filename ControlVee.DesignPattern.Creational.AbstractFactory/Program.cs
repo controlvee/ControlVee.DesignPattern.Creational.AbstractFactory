@@ -79,7 +79,7 @@ namespace ControlVee.DesignPattern.Creational.AbstractFactory
     {
         public override void Eat(Herbivore h)
         {
-            Console.WriteLine($"{this.GetType().Name} ea ts {h.GetType().Name}");
+            Console.WriteLine($"{this.GetType().Name} eats {h.GetType().Name}");
         }
     }
 
